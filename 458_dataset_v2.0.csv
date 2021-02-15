@@ -1,0 +1,20 @@
+Order_ID,Order_Date,Ship_Date,Customer_ID,Segment,City,State,Country,Category,Sales,Quantity,Discount,Profit
+CA_2014_AB10015140_41954,11-11-2014,13-11-2014,AB_100151402,Consumer,Oklahoma City,Oklahoma,United_States,Technology,$221.98,2,0,$62.15
+IN_2014_JR162107_41675,05-02-2014,07-02-2014,JR_162107,Corporate,Wollongong,New_South_Wales,Australia,Furniture,"$3,709.40",9,0.1,-$288.77
+IN_2014_CR127307_41929,17-10-2014,18-10-2014,CR_127307,Consumer,Brisbane,Queensland,Australia,Technology,"$5,175.17",9,0.1,$919.97
+ES_2014_KM1637548_41667,28-01-2014,30-01-2014,KM_1637548,Home Office,Berlin,Berlin,Germany,Technology,"$2,892.51",5,0.1,-$96.54
+SG_2014_RH9495111_41948,05-11-2014,06-11-2014,RH_9495111,Consumer,Dakar,Dakar,Senegal,Technology,"$2,832.96",8,0,$311.52
+IN_2014_JM156557_41818,28-06-2014,01-07-2014,JM_156557,Corporate,Sydney,New_South_Wales,Australia,Technology,"$2,862.68",5,0.1,$763.28
+IN_2012_TS2134092_41219,06-11-2012,08-11-2012,TS_2134092,Consumer,Porirua,Wellington,New_Zealand,Furniture,"$1,822.08",4,0,$564.84
+IN_2013_MB1808592_41378,14-04-2013,18-04-2013,MB_1808592,Consumer,Hamilton,Waikato,New_Zealand,Furniture,"$5,244.84",6,0,$996.48
+CA_2014_AB10015140_41954,11-11-2014,13-11-2014,AB_100151402,Consumer,Oklahoma City,Oklahoma,United_States,Furniture,$341.96,2,0,$54.71
+CA_2012_AB10015140_40974,06-03-2012,07-03-2012,AB_100151404,Consumer,Seattle,Washington,United_States,Furniture,$48.71,1,0.2,$5.48
+CA_2012_AB10015140_40974,06-03-2012,07-03-2012,AB_100151404,Consumer,Seattle,Washington,United_States,Office Supplies,$17.94,3,0,$4.66
+ID_2013_AJ107801_41383,19-04-2013,22-04-2013,AJ_107801,Corporate,Kabul,Kabul,Afghanistan,Furniture,"$4,626.15",5,0,$647.55
+SA_2012_MM7260110_41269,26-12-2012,28-12-2012,MM_7260110,Consumer,Jizan,Jizan,Saudi_Arabia,Technology,"$2,616.96",4,0,"$1,151.40"
+MX_2013_VF2171518_41591,13-11-2013,13-11-2013,VF_2171518,Home Office,Toledo,Parana,Brazil,Furniture,"$2,221.80",7,0,$622.02
+IN_2014_PF1912027_41796,06-06-2014,08-06-2014,PF_1912027,Consumer,Mudanjiang,Heilongjiang,China,Office Supplies,"$3,701.52",12,0,"$1,036.08"
+ES_2015_BP1118545_42216,31-07-2015,03-08-2015,BP_1118545,Corporate,Paris,Ile_de_France,France,Office Supplies,"$1,869.59",4,0.1,$186.95
+CA_2012_AB10015140_40958,19-02-2012,25-02-2012,AB_100151402,Consumer,Arlington,Texas,United_States,Office Supplies,$12.62,2,0.2,-$2.52
+ES_2015_PJ1883564_42255,08-09-2015,14-09-2015,PJ_1883564,Corporate,Prato,Tuscany,Italy,Office Supplies,"$7,958.58",14,0,"$3,979.08"
+IN_2015_JS156857_42035,31-01-2015,01-02-2015,JS_156857,Corporate,Townsville,Queensland,Australia,Technology,"$2,565.59",9,0.1,$28.40
